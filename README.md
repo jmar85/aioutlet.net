@@ -1,2 +1,2 @@
 # aioutlet.net
-AI Marketplace - The Shopify for AI
+AI Marketplace -
